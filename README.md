@@ -9,6 +9,7 @@
 3. [Usage - Configuration options and additional functionality](#usage)
 4. [Limitations - OS compatibility, etc.](#limitations)
 5. [Development - Guide for contributing to the module](#development)
+6. [Credits - credits to developers of this](#credits)
 
 ## Description
 
@@ -89,3 +90,9 @@ This module has only been tested on CentOS.
 ## Development
 
 PRs welcome.
+
+## Credits
+
+This repository is a fork from [andrewm3 hiera_redis](https://github.com/andrewm3/hiera_redis), which has now diverged from the original.
+
+The code to related to `confine_to_keys` from [petems hiera_vault](https://github.com/petems/petems-hiera_vault) repository. I thought it was a good example and I made it as default.
